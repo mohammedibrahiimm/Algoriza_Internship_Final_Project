@@ -37,7 +37,7 @@ To demonstrate real-world **automation testing skills**, including:
 ## ▶️ How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/YourRepoName.git
+   git clone https://github.com/mohammedibrahiimm/Algoriza_Internship_Final_Project
 2. **Ensure ChromeDriver** is installed and added to your system path
 3. **Run the test class:**
    ```bash
