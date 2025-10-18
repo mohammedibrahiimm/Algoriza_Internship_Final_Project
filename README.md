@@ -5,6 +5,7 @@ This project represents my **final automation task** for the **Algoriza Software
 It automates a complete **end-to-end (E2E)** user journey on an e-commerce platform using **Selenium WebDriver**, **Java**, and **TestNG** within **IntelliJ IDEA**.
 
 The automated flow includes:
+
 🔹Login functionality  
 🔹 Product search and navigation  
 🔹 Add to cart and quantity update  
